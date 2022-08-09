@@ -16,6 +16,6 @@ https://github.com/suay-selay/rpg-assignment
 * Open project in IDE and run main-class.
 * Optionally compile the project without an IDE and run main-class.
 
-##Contributor
+## Contributor
 Sona Rahimova @suay-selay
 
